@@ -1,0 +1,361 @@
+ /*  Desktop version */
+
+ .mainContainer{
+    overflow-x: hidden;
+ }
+ 
+ .image1 { 
+    padding: 26px 500px 0 300px;
+}
+
+.image2 {
+    padding-top: 50px;
+}
+
+.heading1 {
+    color: orange;
+    padding-left: 700px;
+    font-size: 16px;
+    margin-top: -50px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.heading2 {
+    margin-left: 850px;
+    font-size: 16px;
+    margin-top: -19px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.heading3 {
+    padding-left: 1000px;
+    font-size: 16px;
+    margin-top: -20px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.heading4 {
+    padding-left: 1150px;
+    font-size: 16px;
+    margin-top: -20px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.content1 {
+    position: absolute;
+    top: 37%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+}
+
+.content2 {
+    position: absolute;
+    top: 50%;
+    left: 57%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Poppins';
+}
+
+.content3 {
+    position: absolute;
+    top: 63%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 20px;
+}
+
+.button1 {
+    margin-left: 520px;
+    background: #FA4A0C;
+    color: white;
+    padding: 16px 50px 16px 50px;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    border-radius: 30px;
+    position: absolute;
+    top: 72%;
+    border: none;
+}
+
+.button2 {
+    margin-left: 800px;
+    padding: 16px 50px 16px 50px;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    position: absolute;
+    top: 73%;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+.image3 {
+    position: absolute;
+    padding-left: 400px;
+    top: 390px;
+}
+
+.image4 {
+    padding-left: 760px;
+    position: absolute;
+    top: 621px;
+}
+
+.content4 {
+    padding-left: 560px;
+    padding-top: 480px;
+    font-family: 'Poppins';
+    font-size: 37px;
+    color: #000000;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+}
+
+.image5 {
+    position: absolute;
+    top: 1240px;
+    left: 140px;
+}
+
+.content5 {
+
+    padding-left: 710px;
+    padding-top: 230px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FA4A0C;
+}
+
+.content6 {
+    padding-left: 710px;
+    padding-top: 10px;
+    color: black;
+    font-size: 35px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+
+.content7 {
+    padding-left: 710px;
+    padding-top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #737373;
+    letter-spacing: 0.1px;
+}
+
+.content8 {
+
+    padding-left: 300px;
+    padding-top: 350px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FA4A0C;
+}
+
+.content9 {
+    padding-left: 300px;
+    padding-top: 11px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    letter-spacing: 0.2px;
+}
+
+.content10 {
+    padding-left: 300px;
+    padding-top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.image6 {
+    padding-left: 740px;
+    margin-top: -460px;
+    padding-top: 60px;
+}
+
+.image7 {
+    padding-left: 200px;
+    margin-top: -180px;
+}
+
+.content11 {
+    padding-left: 870px;
+    margin-top: -650px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FA4A0C;
+    letter-spacing: 0.1px;
+}
+
+.content12 {
+    padding-left: 870px;
+    padding-top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    color: #252B42;
+    letter-spacing: 0.2px;
+}
+
+.content13 {
+    padding-left: 870px;
+    padding-top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #737373;
+    letter-spacing: 0.2px;
+}
+
+.image8 {
+    padding-top: 398px;
+}
+
+.content14 {
+    position: absolute;
+    top: 515%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    color: rgb(248, 242, 242);
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.content15 {
+    position: absolute;
+    top: 525%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+    color: rgb(248, 242, 242);
+    font-size: 24px;
+    text-align: center;
+}
+
+.button3 {
+    margin-left: 520px;
+    background: #FA4A0C;
+    color: white;
+    padding: 16px 50px 16px 50px;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    border-radius: 10px;
+    position: absolute;
+    top: 540%;
+    border: none;
+}
+
+.button4 {
+    margin-left: 800px;
+    padding: 16px 50px 16px 50px;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    position: absolute;
+    top: 540%;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.image9 {
+    margin-left: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.image10 {
+    position: absolute;
+    top: 578%;
+    left: 50%;
+}
+
+.image11 {
+    margin-left: 60%;
+    position: absolute;
+    top: 578%;
+}
+
+.image12 {
+    margin-left: 70%;
+    position: absolute;
+    top: 578%;
+}
+
+.image13 {
+    margin-left: 70.65%;
+    position: absolute;
+    top: 579%;
+}
+
+.image14 {
+    margin-left: 71.8%;
+    position: absolute;
+    top: 577%;
+}
+
+.copyright {
+
+    margin-left: 1050px;
+    position: absolute;
+    top: 578%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    color: #5c5c5c;
+    letter-spacing: 0.1px;
+} 
+
+
+/* Mobile version 
+
+@media only screen and (max-width: 390px){
+
+.image1{
+    padding:17px 285px 0 25px ;
+}
+
+.image2{
+    display: none;
+}
+
+.heading1, .heading2, .heading3, .heading4{
+    display: none;
+
+}
+
+.content1{
+    margin-left: 100px;
+}
+
+/* } */
