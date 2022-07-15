@@ -1,6 +1,6 @@
  /*  Desktop version */
 
- .mainContainer{
+  .mainContainer{ 
     overflow-x: hidden;
  }
  
@@ -334,28 +334,8 @@
     font-size: 17px;
     color: #5c5c5c;
     letter-spacing: 0.1px;
-} 
+ }  
 
 
-/* Mobile version 
-
-@media only screen and (max-width: 390px){
-
-.image1{
-    padding:17px 285px 0 25px ;
-}
-
-.image2{
-    display: none;
-}
-
-.heading1, .heading2, .heading3, .heading4{
-    display: none;
-
-}
-
-.content1{
-    margin-left: 100px;
-}
-
-/* } */
+ 
+  
