@@ -5,3 +5,503 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Praveen-tej/Foodapp.git
 git push -u origin main
+
+
+<div class="mainContainer">
+
+    <div class="header">
+      <div class="leftHeader">
+        <img class="logo" src="/images/image1.png" alt="shopname">
+      </div>
+
+      <div class="rightHeader">
+        <div class="navitem1">Home</div>
+        <div class="navitem2">Product</div>
+        <div class="navitem3">Faq</div>
+        <div class="navitem4">Contact</div>
+      </div>
+    </div>
+
+    <div class="homeContainer">
+
+      <div class="homeHeading1">Food App</div>
+      <div class="homeHeading2">Why stay hungry when</div>
+      <div class="homeHeading3">you can order from Bella Onojie</div>
+      <div class="homeHeading4">Download the bella onoje's food app now on</div>
+
+      <div class="homeButton1">Playstore</div>
+      <div class="homeButton2">App store</div>
+
+      <img class="homeMobiledesign1" src="/images/image3.png" alt="Food for everyone">
+      <img class="homeMobiledesign2" src="/images/Image4.png" alt="Delecious food">
+      <div class="productWorkscontainer1">
+        <div class="procedure">How the app works</div>
+      </div>
+    </div>
+
+
+
+
+    <div class="productWorkscontainer2">
+
+      <div class="rightContainer">
+
+        <div class="heading1">create an account</div>
+         <div class="content6">Create/login to an existing</div>
+        <div>account to get started</div>
+
+        <div class="content7">An account is created with your email</div>
+        <div>and a desired password</div>
+      </div>
+
+     </div> 
+
+    
+    <img class="loginPage" src="/images/image5.png" alt="Loginpage">
+
+
+
+  </div>
+
+  <!-- <div class="container3"> 
+    <div class="leftContainer">
+      <div class="content8">Explore varieties</div>
+      <div class="content9">Shop for your favorites
+        <div>meal as e dey hot.</div>
+      </div>
+      <div class="content10">Shop for your favorite meals or drinks
+        <div>and enjoy while doing it.</div>
+      </div>
+    </div>
+    <div class="rightContainer">
+      <div class="image6"><img src="/images/image6.png" alt="food"></div>
+    </div>
+  </div>
+  <div class="container4">
+    <div class="leftContainer">
+      <div class="image7"><img src="/images/image7.png" alt="payment checkout"></div>
+
+    </div>
+    <div class="rightContainer">
+      <div class="content11">Checkout</div>
+      <div class="content12">When you done check out
+        <div>and get it delivered.</div>
+      </div>
+      <div class="content13">When you done check out and get it
+        <div>delivered with ease.</div>
+      </div>
+    </div>
+  </div>
+  <div class="container5">
+
+    <div class="image8"><img src="/images/image8.png" alt="Download app"></div>
+    <div class="content14">Download the app now.</div>
+    <div class="content15">Available on your favorite store. Start your premium experience now</div>
+    <div class="button3">Playstore</div>
+    <div class="button4">App store</div>
+  </div>
+  <div class="footer">
+    <div class="image9"><img src="/images/image9.png" alt="shopname"></div>
+    <div class="image10"><img src="/images/twitter.png" alt="twitter"></div>
+    <div class="image11"><img src="/images/facebook.png" alt="facebook"></div>
+    <div class="image12"><img src="/images/Instagram (1).png" alt="Instagram"></div>
+    <div class="image13"><img src="/images/Instagram (2).png" alt="Instagram"></div>
+    <div class="image14"><img src="/images/Instagram(3).png" alt="Instagram"></div>
+    <div class="copyright">Copyright 2022 Bella Onojie.com</div>
+
+  </div>  -->
+
+  .logo{
+    padding: 26px 500px 0 400px;
+    width:250px;
+   }
+  
+  .navitem1{
+    color: orange;
+    margin-left:1000px;
+    font-size: 20px;
+    margin-top: -50px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+  }
+  
+  .navitem2{
+    margin-left: 1200px;
+    font-size: 20px;
+    margin-top: -20px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+  }
+  
+  .navitem3{
+    padding-left: 1400px;
+    font-size:20px;
+    margin-top: -20px;
+    font-family:'Montserrat';
+    font-weight: 600;
+  }
+  
+  .navitem4{
+  
+    padding-left: 1600px;
+    font-size: 20px;
+    margin-top: -20px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+  }
+  
+    .homeContainer{
+  
+    background-image: url('/images/Image2.png');
+    padding-top: 1000px; 
+    background-repeat: no-repeat;
+    width: 100%;
+    align-items: center;
+    background-size:2000px;
+    margin-top: 20px;
+  }  
+  
+  .homeHeading1{
+    color: #fff;
+    font-size: 16px;
+    text-align:center;
+    margin-top: -900px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+  }
+  
+  .homeHeading2{
+    color: #fff;
+    margin-left:570px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58px; 
+    margin-top: 10px;
+  }
+  
+  .homeHeading3{
+    color: #fff;
+    margin-left:460px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58px; 
+    margin-top:5px ;
+  }
+  
+  .homeHeading4{
+  
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    margin-left:650px;
+    color: #fff;
+    margin-top: 20px;
+  }
+  
+  .homeButton1{
+  
+    margin-left: 800px;
+    background: #FA4A0C;
+    color: white;
+    padding: 18px 50px 18px 50px;
+    font-size: 24px;
+    font-family:'Montserrat';
+    font-style: normal;
+    border-radius: 30px;
+    display: inline-block;
+    margin-top:50px;
+    border: none;
+  }
+  
+  .homeButton2{
+  
+    margin-left: 75px;
+    padding: 16px 50px 16px 50px;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    display: inline-block;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+  }
+  
+  .homeMobiledesign1{
+    padding-left: 680px;
+    margin-top: -50px;
+  }
+  
+  .homeMobiledesign2{
+  
+    /* padding-left:70px; */
+    position: absolute;
+    top: 89%;
+    left: 57%;
+  }
+  
+  .procedure{
+    margin-left:850px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    letter-spacing: 0.1px;
+    color: #000000;
+  }
+  
+  .heading1{
+    margin-left: 1100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FA4A0C;
+    margin-top: 200px;
+    margin-bottom: -90px;
+   }  
+  
+  .loginPage{
+    margin-left: 490px;
+    margin-top: -290px;
+
+  }
+  
+  
+  /* @media only screen and (max-width: 390px){  
+
+   .image1{
+
+    width:104px;
+    overflow-x: hidden;
+  }
+
+  .content1{
+
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    color: #737373;
+  }
+
+  .content2{
+    margin-top: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+  }
+
+  .content3{
+
+    margin-top:40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.2px;
+    color: #737373;
+    text-align: center;
+  }
+
+  .button1{
+
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+    border-radius: 30px;
+    background-color: #FA4A0C;
+    color: white;
+    padding-top: 15px;
+    padding-bottom:15px;
+    margin-left: 60px;
+    margin-right: 50px;
+    width: 236px;
+
+  }
+
+  .button2{
+
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+    color: #FA4A0C;
+    border: 2px solid #FA4A0C;
+    border-radius:30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 60px;
+    margin-right: 70px;
+    padding-right: 20px;
+  }
+
+  .image3{
+
+    width:350px;
+    margin-bottom: 20px;
+    margin-left: -50px;
+  }
+
+  .image4{
+
+    margin-left:140px;
+    width:180px;
+    margin-top: -500px;
+
+  }
+
+  .content4{
+    margin-top: 60px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0.2px;
+  }
+
+  .content5{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FA4A0C;
+    letter-spacing: 0.1px;
+
+  }
+
+  .content6{
+
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #252B42;
+    letter-spacing: 0.2px;
+  }
+
+  .content7{
+
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #737373;
+    letter-spacing: 0.2px;
+  }
+
+  .image5{
+
+    width: 350px;
+    margin-left: 30px;
+  }
+
+  .content8{
+
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FA4A0C;
+
+  }
+
+  .content9{
+
+    text-align: center;
+    margin-top:30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #252B42;
+    letter-spacing: 0.2px;
+  }
+
+  .content10{
+
+    text-align: center;
+    margin-top:40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #737373;
+    letter-spacing: 0.2px;
+
+  }
+
+  .image6{
+    width: 350px;
+    margin-left: 30px;
+  }
+
+  .content11{
+
+    text-align: center;
+    margin-top: 25px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FA4A0C;
+    letter-spacing: 0.1px;
+  }
+
+  .content12{
+
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 43px;
+    color: #252B42;
+    letter-spacing: 0.2px;
+  }
+
+  .content13{
+
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #737373;
+    letter-spacing: 0.2px;
+
+  }
+
+  .image7{
+     
+    width: 350px;
+     margin-left: 30px; }
+
+  } */
+
+  
+
+ 
+  
+  
+  
+  
