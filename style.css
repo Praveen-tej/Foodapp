@@ -31,7 +31,6 @@
  }
 
  .navitem4 {
-
    padding-left: 1561px;
    font-size: 20px;
    margin-top: -20px;
@@ -330,9 +329,9 @@
    letter-spacing: 0.2px;
  }
 
- .button4 {
+  .button4 {
    margin-left: 900px;
-   margin-top: -100px;
+   margin-top: -65px;
    font-family: 'Montserrat';
    font-style: normal;
    font-weight: 700;
@@ -341,8 +340,8 @@
    color: #FFFFFF;
    border: 2px solid white;
    border-radius: 15px;
-   display: inline-block;
    padding: 20px 25px 20px 25px;
+   position: absolute;
  }
 
  .footer {
