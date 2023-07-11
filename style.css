@@ -117,7 +117,7 @@
 
  .homeMobiledesign1 {
    padding-left: 580px;
-   margin-top:  -50px;
+   margin-top: -50px;
  }
 
  .homeMobiledesign2 {
@@ -133,7 +133,7 @@
    font-weight: 601;
    font-size: 44px;
    letter-spacing: 0.1px;
-   color:#000000;
+   color: #000000;
  }
 
  .heading1 {
@@ -320,7 +320,7 @@
    background: #FA4A0C;
    border-radius: 10px;
    padding: 18px 23px 18px 23px;
-   display:inline-block;
+   display: inline-block;
    font-family: 'Montserrat';
    font-style: normal;
    font-weight: 600;
@@ -329,7 +329,7 @@
    letter-spacing: 0.2px;
  }
 
-  .button4 {
+ .button4 {
    margin-left: 900px;
    margin-top: -65px;
    font-family: 'Montserrat';
@@ -387,7 +387,7 @@
    margin-top: -10px;
    font-family: 'Roboto';
    font-style: normal;
-   font-weight:600;
+   font-weight: 600;
    font-size: 13px;
    line-height: 16px;
    letter-spacing: 0.1px;
