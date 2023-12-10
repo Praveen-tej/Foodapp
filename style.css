@@ -1,5 +1,4 @@
- /*  Desktop version */
-
+   /* Desktop version  */
  .logo {
    padding: 26px 500px 0 400px;
    width: 250px;
@@ -11,7 +10,7 @@
    font-size: 21px;
    margin-top: -50px;
    font-family: 'Montserrat';
-   font-weight: 400;
+   font-weight: 300;
  }
 
  .navitem2 {
@@ -392,5 +391,4 @@
    line-height: 16px;
    letter-spacing: 0.1px;
    color: #5C5C5C;
-
  }
