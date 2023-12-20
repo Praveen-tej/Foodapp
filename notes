@@ -5,15 +5,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Praveen-tej/Foodapp.git
 git push -u origin main
-
-
 <div class="mainContainer">
-
     <div class="header">
       <div class="leftHeader">
         <img class="logo" src="/images/image1.png" alt="shopname">
       </div>
-
       <div class="rightHeader">
         <div class="navitem1">Home</div>
         <div class="navitem2">Product</div>
@@ -21,9 +17,7 @@ git push -u origin main
         <div class="navitem4">Contact</div>
       </div>
     </div>
-
     <div class="homeContainer">
-
       <div class="homeHeading1">Food App</div>
       <div class="homeHeading2">Why stay hungry when</div>
       <div class="homeHeading3">you can order from Bella Onojie</div>
@@ -38,12 +32,7 @@ git push -u origin main
         <div class="procedure">How the app works</div>
       </div>
     </div>
-
-
-
-
     <div class="productWorkscontainer2">
-
       <div class="rightContainer">
 
         <div class="heading1">create an account</div>
@@ -55,14 +44,8 @@ git push -u origin main
       </div>
 
      </div> 
-
-    
     <img class="loginPage" src="/images/image5.png" alt="Loginpage">
-
-
-
   </div>
-
   <!-- <div class="container3"> 
     <div class="leftContainer">
       <div class="content8">Explore varieties</div>
@@ -142,7 +125,6 @@ git push -u origin main
   }
   
   .navitem4{
-  
     padding-left: 1600px;
     font-size: 20px;
     margin-top: -20px;
@@ -151,7 +133,6 @@ git push -u origin main
   }
   
     .homeContainer{
-  
     background-image: url('/images/Image2.png');
     padding-top: 1000px; 
     background-repeat: no-repeat;
@@ -204,7 +185,6 @@ git push -u origin main
   }
   
   .homeButton1{
-  
     margin-left: 800px;
     background: #FA4A0C;
     color: white;
@@ -497,11 +477,3 @@ git push -u origin main
      margin-left: 30px; }
 
   } */
-
-  
-
- 
-  
-  
-  
-  
