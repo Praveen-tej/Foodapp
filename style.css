@@ -1,5 +1,5 @@
-   /* Desktop version  */
- .logo {
+/* Desktop version*/
+.logo {
    padding: 26px 500px 0 400px;
    width: 250px;
  }
@@ -36,6 +36,7 @@
    font-family: 'Montserrat';
    font-weight: 600;
  }
+
  .homeContainer {
    background-image: url('/images/Image2.png');
    padding-top: 1000px;
@@ -250,7 +251,6 @@
  }
 
  .shoppingContainer {
-
    width: 100%;
  }
 
@@ -388,4 +388,3 @@
    letter-spacing: 0.1px;
    color: #5C5C5C;
  }
- 
