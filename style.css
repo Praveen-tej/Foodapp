@@ -7,7 +7,7 @@
  .navitem1 {
    color: orange;
    margin-left: 1000px;
-   font-size: 20px;
+   font-size: 26px;
    margin-top: -50px;
    font-family: 'Montserrat';
    font-weight: 300;
@@ -19,7 +19,7 @@
    margin-top: -20px;
    font-family: 'Montserrat';
    font-weight: 600;
- }
+}
 
  .navitem3 {
    padding-left: 1400px;
@@ -27,7 +27,7 @@
    margin-top: -20px;
    font-family: 'Montserrat';
    font-weight: 500;
- }
+  }
 
  .navitem4 {
    padding-left: 1561px;
